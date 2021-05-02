@@ -1,4 +1,4 @@
 [submodule "ai_library"]
 	path = ai_library
 	url = https://github.com/ftrtz/ai_library.git
-	branch=main
+	branch = main
