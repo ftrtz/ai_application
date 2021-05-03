@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  ai_application:
+    image: ai_application
+    container_name: ai_application
+    volumes:
+    - ./results:/ai_application/results/
